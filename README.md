@@ -17,4 +17,4 @@ This project demonstrates how to implement **authentication** in a MERN stack ap
 - **Node.js** (v14 or higher)
 - **MongoDB** (Local or Atlas)
 
-
+(I have provided .env file publicly to make this project easily run on your device)
